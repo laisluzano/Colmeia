@@ -1,0 +1,51 @@
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Colmeia.dll.config
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Colmeia.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Colmeia.pdb
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Antlr3.Runtime.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\EntityFramework.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Newtonsoft.Json.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Mvc.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Optimization.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Providers.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Razor.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.Deployment.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.Razor.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\WebGrease.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\EntityFramework.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\Newtonsoft.Json.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Mvc.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.Razor.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.Deployment.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\bin\System.Web.WebPages.Razor.xml
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.dll
+c:\users\lais.luzano\documents\visual studio 2013\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.pdb
+C:\Projetos\Colmeia\Colmeia\bin\Colmeia.dll.config
+C:\Projetos\Colmeia\Colmeia\bin\Colmeia.dll
+C:\Projetos\Colmeia\Colmeia\bin\Colmeia.pdb
+C:\Projetos\Colmeia\Colmeia\bin\Antlr3.Runtime.dll
+C:\Projetos\Colmeia\Colmeia\bin\EntityFramework.dll
+C:\Projetos\Colmeia\Colmeia\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Colmeia\Colmeia\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projetos\Colmeia\Colmeia\bin\Newtonsoft.Json.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Mvc.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Optimization.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Providers.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Razor.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.dll
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\Colmeia\Colmeia\bin\WebGrease.dll
+C:\Projetos\Colmeia\Colmeia\bin\EntityFramework.xml
+C:\Projetos\Colmeia\Colmeia\bin\Newtonsoft.Json.xml
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Mvc.xml
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.Razor.xml
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.xml
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\Colmeia\Colmeia\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\Colmeia\Colmeia\obj\Debug\Colmeia.dll
+C:\Projetos\Colmeia\Colmeia\obj\Debug\Colmeia.pdb
+C:\Projetos\Colmeia\Colmeia\obj\Debug\Colmeia.csprojResolveAssemblyReference.cache

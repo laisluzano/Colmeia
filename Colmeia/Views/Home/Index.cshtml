@@ -1,0 +1,94 @@
+﻿@model Colmeia.Models.Queen
+
+
+@{
+    ViewBag.Title = "Colmeia";
+}
+
+@*<h2>Tralhador do mes: @ViewBag.trabalhadorDoMes</h2>*@
+
+
+@*<table id="tboperarias" class="tb">
+        <form action=" " method="post">
+
+        </form>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Id</th>
+                <th>Funcao</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var worker in Model.workers)
+            {
+                <tr>
+                    <td>
+                        <label>@worker.Nome</label>
+                    </td>
+                    <td>
+                        <label style="text-align:center">@worker.Id</label>
+                    </td>
+                    <td>
+                        @foreach (var job in worker.jobsICanDo)
+                        {
+                            <label>@job</label><br />
+                        }
+                    </td>
+                    <td>
+
+                        <a href="@Url.Action("deleteWorker")?workerId=@(worker.Id)">excluir</a>
+                    </td>
+                    <td>
+                        <a href="@Url.Action("editWorker")?workerId=@(worker.Id)">editar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>*@
+
+
+<div id="master">
+
+    @*div operacional*@
+    <div id="operacao">
+        <input type="submit" value="Adicionar Operaria" style="font-size:20px; font-family: Dotum;border-radius: 6px; border:0; color: white; background: #f26964; width:20%; height:35px;margin-right:50px; margin-top:10px;float:right; text-shadow: 1px 1px 0px rgba(0,0,0,.1); box-shadow: 0px 3px 0px #c1524e; font-weight: bold;" onclick="location.href='@Url.Action("editWorker")?workerId=0'" />
+        <div>
+            <input class="search-container"  type="text" placeholder="Pesquisar...">
+            <button style="float:right; margin-right:700px; padding:10px; margin-top:10px;  border-radius: 6px; background: #f26964; color: #fff; font-weight: bold;" onclick="location.href='@Url.Action("searchWorker")?workerId=0'" type="submit">OK</button>
+        </div>
+    </div>
+</div>
+
+@*div grid*@
+<div id="grid">
+    <div id="cabecalho">
+        <div id="nome">NOME</div>
+        <div id="id">ID</div>
+        <div id="funcao">FUNÇÃO</div>
+        <div id="espacoBranco"></div>
+    </div>
+
+    @*varre os workers para preencher a linha*@
+    @foreach (var worker in Model.workers)
+    {
+        <div id="linhaOperario">
+            <div id="linhaNome">@worker.Nome</div>
+            <div id="linhaId">@worker.Id</div>
+            <div id="linhaFuncao">
+                @foreach (var job in worker.jobsICanDo)
+                {
+                    <label>@job</label>
+                }
+            </div>
+            <div id="deletar">
+                <input type="button" class="btnPrincipal" value="Deletar" onclick="location.href='@Url.Action("deleteWorker")?workerId=@(worker.Id)'">
+            </div>
+            @*<div id="delete"><a href="@Url.Action("deleteWorker")?workerId=@(worker.Id)">excluir</a></div>*@
+            <div id="editar">
+                <input type="button" class="btnPrincipal" value="Editar" onclick="location.href='@Url.Action("editWorker")?workerId=@(worker.Id)'">
+                @*<a href="@Url.Action("editWorker")?workerId=@(worker.Id)">editar</a>*@
+            </div>
+        </div>
+    }
+</div>

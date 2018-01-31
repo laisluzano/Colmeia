@@ -1,0 +1,28 @@
+﻿[]
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+table {
+    border-collapse: collapse;
+	border: 1px solid black;
+	width: 100%;
+}
+
+th, td {
+	height: 50px;
+	text-align: center;
+	padding: 15px;
+	border-bottom: 1px solid #ddd;
+}
+
+tr:hover{
+	background-color: pink;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
